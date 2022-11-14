@@ -1,0 +1,199 @@
+[
+    {
+        "name": "householdAppliance",
+        "title": "家用电器",
+        "shops": [
+            "0001",
+            "0002",
+            "0006",
+            "0007",
+            "0008"
+        ],
+        "sort": [
+            {
+                "name": "washingMachine",
+                "title": "洗衣机",
+                "sort": [
+                    {
+                        "name": "rollerWashingMachine",
+                        "title": "滚筒洗衣机",
+                        "shops": [
+                            "0001",
+                            "0002"
+                        ]
+                    },
+                    {
+                        "name": "WashingAndDryingMachine",
+                        "title": "洗烘一体机",
+                        "shops": [
+                            "0002"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "airConditioner",
+                "title": "空调",
+                "sort": [
+                    {
+                        "name": "centralAirConditioner",
+                        "title": "中央空调",
+                        "shops": [
+                            "0006"
+                        ]
+                    },
+                    {
+                        "name": "onHookAirConditioner",
+                        "title": "挂机空调",
+                        "shops": [
+                            "0007"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "refrigerator",
+                "title": "冰箱",
+                "sort": [
+                    {
+                        "name": "twoDoorRefrigerator",
+                        "title": "双门冰箱",
+                        "shops": [
+                            "0008"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "phoneAndDigital",
+        "title": "手机、数码、通信",
+        "shops": [
+            "0003",
+            "0005"
+        ],
+        "sort": [
+            {
+                "name": "phone",
+                "title": "手机",
+                "sort": [
+                    {
+                        "name": "5GPhone",
+                        "title": "5G手机",
+                        "shops": [
+                            "0003"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "phoneParts",
+                "title": "手机配件",
+                "sort": [
+                    {
+                        "name": "phoneShell",
+                        "title": "手机壳",
+                        "shops": [
+                            "0005"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "computerAndOffice",
+        "title": "电脑、办公",
+        "shops": [
+            "0004"
+        ],
+        "sort": [
+            {
+                "name": "computer",
+                "title": "电脑",
+                "sort": [
+                    {
+                        "name": "laptop",
+                        "title": "笔记本电脑",
+                        "shops": [
+                            "0004"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "homeSupplies",
+        "title": "家居、家具、家装、厨具",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "clothing",
+        "title": "男装、女装、童装、内衣",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "cosmetics",
+        "title": "化妆用品",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "luxury",
+        "title": "箱包、珠宝、钟表",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "exercise",
+        "title": "运动户外",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "automobile",
+        "title": "汽车、汽车用品",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "motherAndBadyProductAndMusical",
+        "title": "母婴、玩具乐器",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "food",
+        "title": "食品、酒类、生鲜",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "medicine",
+        "title": "医药保健",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "book",
+        "title": "图书、音像、电子书",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "thirdPartyService",
+        "title": "彩票、旅行、充值、票务",
+        "shops": [],
+        "data": []
+    },
+    {
+        "name": "petSupplies",
+        "title": "宠物用品",
+        "shops": [],
+        "data": []
+    }
+]

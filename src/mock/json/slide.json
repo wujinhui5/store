@@ -1,0 +1,17 @@
+[
+    {
+        "shopId": "0001",
+        "storeId": "0001",
+        "img": "q.jpg"
+    },
+    {
+        "shopId": "0003",
+        "storeId": "0002",
+        "img": "q1.jpg"
+    },
+    {
+        "shopId": "0004",
+        "storeId": "0003",
+        "img": "q2.jpg.avif"
+    }
+]

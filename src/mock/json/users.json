@@ -1,0 +1,30 @@
+{
+    "13512345678": {
+        "phone": "13512345678",
+        "uid": "0001",
+        "shopCarNum": 2,
+        "name": "爱购物的小白",
+        "token": "shsfhfgjfjdsfgshssfg"
+    },
+    "13012345678": {
+        "phone": "13012345678",
+        "uid": "0002",
+        "shopCarNum": 2,
+        "name": "小黄",
+        "token": "sdfhsfhshethrtbeahrt"
+    },
+    "13912345678": {
+        "phone": "13912345678",
+        "uid": "0003",
+        "shopCarNum": 2,
+        "name": "剁手的小黑",
+        "token": "dfhnbchrtjabrjytegnn"
+    },
+    "13812345678": {
+        "phone": "13812345678",
+        "uid": "0004",
+        "shopCarNum": 2,
+        "name": "我是小绿",
+        "token": "dhdfjghsjhgmc456335"
+    }
+}

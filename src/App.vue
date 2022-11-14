@@ -1,26 +1,31 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <router-view v-if="isLoad"></router-view>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
+import { reactive, toRefs, nextTick, provide } from "vue";
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+  name: "App",
+  setup() {
+    let data = reactive({
+      isLoad: true,
+    });
+
+    function reload() {
+      data.isLoad = false;
+      nextTick(() => {
+        data.isLoad = true;
+      });
+    }
+
+    provide("reload", reload);
+
+    return {
+      ...toRefs(data),
+    };
+  },
+};
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
 </style>

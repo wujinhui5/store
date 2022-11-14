@@ -1,0 +1,137 @@
+{
+    "0001": {
+        "shopId": "0001",
+        "storeId": "0001",
+        "storeName": "海尔旗舰店",
+        "price": "6499.00",
+        "discount": "满3000减300",
+        "title": "海尔出品统帅子母洗衣机滚筒双子分区洗护13kg公斤4+9公斤上下双筒母婴双桶同步洗护洗烘一体以旧换新 白色海尔出品13公斤双筒",
+        "shopPic": [
+            "a287cc5ede3308f0.jpg",
+            "19b4c42d4d01f449.jpg",
+            "c028322fbb87758f.jpg",
+            "dd3984f2c2b82d59.jpg",
+            "c562c3531fe38f05.jpg",
+            "617bd1f57cae239b.jpg"
+        ],
+        "label": [
+            "homeAppliance",
+            "washingMachine",
+            "rollerWashingMachine"
+        ]
+    },
+    "0002": {
+        "shopId": "0002",
+        "storeId": "0001",
+        "storeName": "海尔旗舰店",
+        "price": "3599.00",
+        "title": "海尔（Haier）滚筒洗衣机全自动 以旧换新 以旧换新 蒸汽除菌10KG洗烘一体变频 HPRO6S",
+        "shopPic": [
+            "4299fb46edb1b1fc.jpg.avif",
+            "222ad73c4973a363.jpg.avif",
+            "3bde6e8393d70920.jpg.avif"
+        ],
+        "label": [
+            "homeAppliance",
+            "washingMachine",
+            "rollerWashingMachine",
+            "WashingAndDryingMachine"
+        ]
+    },
+    "0003": {
+        "shopId": "0003",
+        "storeId": "0002",
+        "storeName": "Apple产品自营旗舰店",
+        "price": "5999.00",
+        "title": "Apple iPhone 14 (A2884) 128GB 紫色 支持移动联通电信5G 双卡双待手机",
+        "shopPic": [
+            "974054cbaa7f3577.jpg.avif",
+            "10db8cadb045f3c1.jpg.avif"
+        ],
+        "label": [
+            "phoneAndDigital",
+            "phone",
+            "5Gphone"
+        ]
+    },
+    "0004": {
+        "shopId": "0004",
+        "storeId": "0003",
+        "storeName": "VAIO自营旗舰店",
+        "price": "3999.00",
+        "title": "VAIO FH14 侍14Ultra英特尔酷睿14英寸1.4Kg 高性能轻薄笔记本电脑 (i7 16G 512G FHD) 铂金银",
+        "shopPic": [
+            "1286fe211af4b99b.jpg.avif",
+            "747f76f1e4285f4a.jpg.avif"
+        ],
+        "label": [
+            "computerAndOffice",
+            "computer",
+            "laptop"
+        ]
+    },
+    "0005": {
+        "shopId": "0005",
+        "storeId": "0004",
+        "storeName": "斯泰克（STIGER）自营旗舰店",
+        "price": "29.90",
+        "title": "斯泰克【送钢化膜】苹果14手机壳 自带镜头膜iPhone14电镀超薄透明全包保护套裸机手感防摔保护硬壳 蓝色",
+        "shopPic": [
+            "f0ebcdb58bfb0791.jpg.avif",
+            "95c87099de5c4685.jpg.avif"
+        ],
+        "label": [
+            "phoneAndDigital",
+            "phoneParts",
+            "phoneShell"
+        ]
+    },
+    "0006": {
+        "shopId": "0006",
+        "storeId": "0005",
+        "storeName": "格力自营旗舰店",
+        "price": "8999.00",
+        "title": "格力（GREE）中央空调 风管机一拖一 3匹家用嵌入式空调隐藏安装 1级能效全直流变频冷暖FGR7.2Pd/C3Nh-N1",
+        "shopPic": [
+            "d16f17e8f4a6e845.jpg.avif",
+            "d5f533c025fc53da.jpg.avif"
+        ],
+        "label": [
+            "householdAppliance",
+            "airConditioner",
+            "centralAirConditioner"
+        ]
+    },
+    "0007": {
+        "shopId": "0007",
+        "storeId": "0005",
+        "storeName": "格力自营旗舰店",
+        "price": "2799.00",
+        "title": "格力（GREE）1.5匹 云佳 三级能效 变频冷暖 自清洁 壁挂式卧室空调挂机(KFR-35GW/NhGe3B 珊瑚玉色)",
+        "shopPic": [
+            "5e04bd96f6ebda50.jpg.avif",
+            "4d27bdb928268dd4.jpg.avif"
+        ],
+        "label": [
+            "householdAppliance",
+            "airConditioner",
+            "onHookAirConditioner"
+        ]
+    },
+    "0008": {
+        "shopId": "0008",
+        "storeId": "0006",
+        "storeName": "小米自营旗舰店",
+        "price": "899.00",
+        "title": "米家小米出品 185L双门冰箱 宿舍家用小型精致简约欧式设计冰箱BCD-185MDM",
+        "shopPic": [
+            "46881335fd2e1f0a.jpg.avif",
+            "f3d8ad82ce64412e.jpg.avif"
+        ],
+        "label": [
+            "householdAppliance",
+            "refrigerator",
+            "twoDoorRefrigerator"
+        ]
+    }
+}
