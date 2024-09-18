@@ -66,6 +66,7 @@ export default {
           reactiveData.dotsClass = new Array(data.data.length);
           reactiveData.dotsClass[0] = "active";
           reactiveData.slideData = data.data;
+          console.log(reactiveData.slideData)
           reactiveData.slideData.unshift(data.data[data.data.length - 1]);
           reactiveData.slideData.push(data.data[1]);
         })

@@ -11,6 +11,7 @@
     </div>
 
     <!-- 主体注册模块 -->
+     <!-- test -->
     <div class="main">
       <MyTips />
       <div class="form-container">
