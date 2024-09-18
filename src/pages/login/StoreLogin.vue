@@ -13,6 +13,7 @@
     <!-- 主体注册模块 -->
      <!-- test -->
       <!-- test2 -->
+      <!-- test2 -->
     <div class="main">
       <MyTips />
       <div class="form-container">
